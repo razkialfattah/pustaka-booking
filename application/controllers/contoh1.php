@@ -10,4 +10,5 @@ class Contoh1 extends CI_Controller
  joging";
  }
 }
+
 ?>
